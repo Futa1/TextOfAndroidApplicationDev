@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">イベントとリスナサンプル</string>
+    <string name="bt_click">表示</string>
+    <string name="tv_name">お名前を入力してください。</string>
+    <style name="Base.Theme.HelloSample" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.HelloSample" parent="Base.Theme.HelloSample"/>
+</resources>
