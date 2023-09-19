@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id lvMenu
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string dialog_btn_ng
+string dialog_btn_nu
+string dialog_btn_ok
+string dialog_msg
+string dialog_ng_toast
+string dialog_nu_toast
+string dialog_ok_toast
+string dialog_title
+style Base.Theme.ListViewSampleSecond
+style Theme.ListViewSampleSecond
+xml backup_rules
+xml data_extraction_rules
